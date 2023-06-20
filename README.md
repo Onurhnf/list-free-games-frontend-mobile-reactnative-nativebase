@@ -14,6 +14,7 @@ This project is listing the free games from [FREETOGAME Api](https://www.freetog
 ## Screenshots
 
 ![Home](./assets/home.jpeg)
+<img src="./assets/home.jpeg" alt="Home" width="300">
 ![HomeDarkMode](./assets/homeDark.jpeg)
 ![Sort](./assets/sort.jpeg)
 ![Sorted](./assets/sorted.jpeg)
