@@ -11,20 +11,20 @@ This project is listing the free games from [FREETOGAME Api](https://www.freetog
 - You can scan the QR code with Expo Go (Android) or the Camera app (iOS)
 - If using an emulator, press "a" for Android or "i" for iOS to start the React Native Expo app.
 
-## Screenshots
-
-<div style="display: flex; gap: 5px;">
-  <img src="./assets/home.jpeg" alt="Home" width="200">
-  <img src="./assets/homeDark.jpeg" alt="HomeDarkMode" width="200">
-  <img src="./assets/sort.jpeg" alt="Sort" width="200">
-  <img src="./assets/sorted.jpeg" alt="Sorted" width="200">
-  <img src="./assets/filter.jpeg" alt="Filter" width="200">
-  <img src="./assets/filtered.jpeg" alt="Filtered" width="200">
-</div>
-
 ## Extra Problem Solution
 
 After cloning the repository, you can check how the problem solved. To see the result, you can run `node ExtraProblem.js`. This will execute the code and display the output.
+
+## Screenshots
+
+<div style="display: flex; gap: 5px;">
+  <img src="./assets/home.jpeg" alt="Home" width="250">
+  <img src="./assets/homeDark.jpeg" alt="HomeDarkMode" width="250">
+  <img src="./assets/sort.jpeg" alt="Sort" width="250">
+  <img src="./assets/sorted.jpeg" alt="Sorted" width="250">
+  <img src="./assets/filter.jpeg" alt="Filter" width="250">
+  <img src="./assets/filtered.jpeg" alt="Filtered" width="250">
+</div>
 
 ## Contact
 

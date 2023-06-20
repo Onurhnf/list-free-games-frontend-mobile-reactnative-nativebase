@@ -1,4 +1,4 @@
-import { HStack, Button, Divider } from "native-base";
+import { Button, Divider } from "native-base";
 
 export default function SortFilterHeader({
   setShowSortModal,

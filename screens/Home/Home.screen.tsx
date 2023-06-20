@@ -1,15 +1,15 @@
 import { FlatList, Spinner, VStack, View, Button, Icon } from "native-base";
+import { Animated, Easing } from "react-native";
 import React, { useEffect, useState, useRef } from "react";
 import { FontAwesome } from "@expo/vector-icons";
+import Helpers from "../../utils/Helpers";
 import GameService from "../../services/Game.service";
-import GameCard from "../../components/Game/GameCard.component";
 import { IGame } from "../../interfaces/Game/IGameList.interface";
 import { CategoryEnum } from "../../enums/Games/GamesParameters.enum";
-import { Animated, Easing } from "react-native";
+import GameCard from "../../components/Game/GameCard.component";
 import SortFilterHeader from "../../components/Header/SortFilterHeader.component";
 import SortingGamesModal from "../../components/Modal/SortingGamesModal.component";
 import FilteringGamesModal from "../../components/Modal/FilteringGamesModal.component";
-import Helpers from "../../utils/Helpers";
 
 export default function Home() {
   const [loadedGames, setLoadedGames] = useState<IGame.IGameDetail[]>([]);
