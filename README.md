@@ -13,13 +13,14 @@ This project is listing the free games from [FREETOGAME Api](https://www.freetog
 
 ## Screenshots
 
-![Home](./assets/home.jpeg)
-<img src="./assets/home.jpeg" alt="Home" width="300">
-![HomeDarkMode](./assets/homeDark.jpeg)
-![Sort](./assets/sort.jpeg)
-![Sorted](./assets/sorted.jpeg)
-![Filter](./assets/filter.jpeg)
-![Filtered](./assets/filtered.jpeg)
+<div style="display: flex; gap: 5px;">
+  <img src="./assets/home.jpeg" alt="Home" width="200">
+  <img src="./assets/homeDark.jpeg" alt="HomeDarkMode" width="200">
+  <img src="./assets/sort.jpeg" alt="Sort" width="200">
+  <img src="./assets/sorted.jpeg" alt="Sorted" width="200">
+  <img src="./assets/filter.jpeg" alt="Filter" width="200">
+  <img src="./assets/filtered.jpeg" alt="Filtered" width="200">
+</div>
 
 ## Extra Problem Solution
 
